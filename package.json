@@ -81,7 +81,7 @@
     "typescript": "*",
     "zx": "^8.1.4",
     "turbo": "^1.13.0"
-  }
+  }.
   "pnpm": {
     "onlyBuiltDependencies": [
       "sqlite3"
